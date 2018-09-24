@@ -1,0 +1,1 @@
+g++ Source.cpp myNode.cpp myGraph.cpp -L ~/twitcurl/libtwitcurl -I ~/twitcurl/libtwitcurl -l twitcurl -std=c++11 -o markovBot
